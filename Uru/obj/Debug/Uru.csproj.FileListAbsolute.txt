@@ -1,0 +1,6 @@
+c:\users\ernest\documents\visual studio 2015\Projects\Uru\Uru\bin\Uru.dll.config
+c:\users\ernest\documents\visual studio 2015\Projects\Uru\Uru\bin\Uru.dll
+c:\users\ernest\documents\visual studio 2015\Projects\Uru\Uru\bin\Uru.pdb
+c:\users\ernest\documents\visual studio 2015\Projects\Uru\Uru\obj\Debug\Uru.csprojResolveAssemblyReference.cache
+c:\users\ernest\documents\visual studio 2015\Projects\Uru\Uru\obj\Debug\Uru.dll
+c:\users\ernest\documents\visual studio 2015\Projects\Uru\Uru\obj\Debug\Uru.pdb
